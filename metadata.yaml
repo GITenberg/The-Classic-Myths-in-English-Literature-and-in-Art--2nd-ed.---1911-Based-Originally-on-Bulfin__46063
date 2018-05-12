@@ -18,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1179
     wikipedia: http://en.wikipedia.org/wiki/Thomas_Bulfinch
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46063#The-Classic-Myths-in-English-Literature-and-in-Art--2nd-ed.---1911-Based-Originally-on-Bulfin_
 gutenberg_issued: '2014-06-21'
 gutenberg_type: Text
 identifiers:
